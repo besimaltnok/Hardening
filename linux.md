@@ -1,2 +1,2 @@
-#### Linux hardening
+#### Linux Güvenliği İpuçları
 
