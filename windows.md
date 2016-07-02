@@ -20,7 +20,7 @@ HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsCurrentVersionRunOnceSetup
 %ALLUSERSPROFILE%Start MenuProgramsStartup
  %USERPROFILE%Start MenuProgramsStartup
  
-* Görev Zamanlayıcı (Schedule Tasks)
+* Görev Zamanlayıcısını kontrol etmek (Schedule Tasks)
 
 * Yeni eklenen servislerin kontrolü (Process hacker)
 
