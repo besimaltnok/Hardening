@@ -24,6 +24,8 @@ HKEY_LOCAL_MACHINESoftwareMicrosoftWindowsCurrentVersionRunOnceSetup
 
 * Yeni eklenen servislerin kontrolü (Process hacker)
 
+* Paylaşımlı dosyaları kısıtlamak
+
 **2** Sistem üzerindeki kullanıcılar sürekli denetim altında tutulmaldır.
 
 * "net users" komutu ile kullanıcılar görüntülenebilir.
